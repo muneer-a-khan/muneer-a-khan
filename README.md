@@ -23,7 +23,7 @@
 I'm Muneer Khan, a Computer Science student at the University of Virginia with a passion for software development, frontend design, and data analytics. I enjoy building full-stack applications and working on impactful projects that benefit myself and others.<br><br>
 
 - 🎓 **Pursuing a BS in Computer Science** at UVA Engineering 
-- 🔭 Currently working on **[NBA-Stats-Predictor](https://github.com/muneer-a-khan/NBA-Stats-Predictor)**  
+- 🔭 Currently working on **[Volunteer-Volume](https://github.com/muneer-a-khan/Volunteer-Volume)**  
 - 🚀 Also developing **[Automatic-ResearchLabEmailer](https://github.com/muneer-a-khan/Automatic-ResearchLabEmailer)**  
 - 🌱 Learning **TailwindCSS, PostgreSQL, Next.js, and advanced software development techniques**  
 - 📄 [Check out my resume](https://drive.google.com/file/d/1rRgOzbVnlb6JLuYQArPI48lVAo9-AU_L/view?usp=sharing)  
