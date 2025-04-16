@@ -26,7 +26,7 @@ I'm Muneer Khan, a Computer Science student at the University of Virginia with a
 - 🔭 Currently working on **[Volunteer-Volume](https://github.com/muneer-a-khan/Volunteer-Volume)**  
 - 🚀 Also developing **[Automatic-ResearchLabEmailer](https://github.com/muneer-a-khan/Automatic-ResearchLabEmailer)**  
 - 🌱 Learning **TailwindCSS, PostgreSQL, Next.js, and advanced software development techniques**  
-- 📄 [Check out my resume](https://drive.google.com/file/d/1rRgOzbVnlb6JLuYQArPI48lVAo9-AU_L/view?usp=sharing)  
+- 📄 [Check out my resume](https://drive.google.com/file/d/1keW4doLEB8lnuzLpCKAfsEUN6mdf5uJj/view?usp=sharing)  
 - ⚡ **Fun Fact:** I'm currently working on dunking by doing plyometrics twice a week! 🏀 
 
 </p>
