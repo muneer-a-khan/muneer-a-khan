@@ -23,7 +23,8 @@
 <p align="left">
 I'm a Computer Science student at the University of Virginia passionate about building intelligent systems and full-stack applications that merge AI reasoning, UI/UX, and real-world impact.<br><br>
 
-- 🎓 **B.S. in Computer Science**, University of Virginia  
+- 🎓 **B.S. in Computer Science**, University of Virginia
+- **Incoming Software Engineering Intern** at **LinkedIn** 
 - 💼 **Currently @ UVA Research Computing** — developing an **AI-integrated web portal** and **Slack bot** for HPC resource management  
 - 🤖 **Working on a Human–Robot Fairness project**, combining **YOLOv8**, **TD-BKT**, and a **7-DOF robotic arm** to study equitable collaboration  
 - 🚀 **Co-Founder of [AdmitifyAI](https://admitifyai.com)** — an LLM-powered platform assisting students with college admissions  
